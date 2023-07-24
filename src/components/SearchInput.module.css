@@ -1,0 +1,44 @@
+.SearchWrapper {
+  margin: 20px 0;
+  align-items: start;
+  display: block;
+  background-color: #5a5c66;
+  border: none;
+  padding: 18px 0 15px 25px;
+  width: 630px;
+  color: white;
+}
+
+.icon {
+  position: absolute;
+  margin-top: -55px;
+  margin-left: 75px;
+}
+
+::-webkit-input-placeholder {
+  /* WebKit, Blink, Edge */
+  color: #b2b7bf;
+}
+:-moz-placeholder {
+  /* Mozilla Firefox 4 to 18 */
+  color: #b2b7bf;
+  opacity: 1;
+}
+::-moz-placeholder {
+  /* Mozilla Firefox 19+ */
+  color: #b2b7bf;
+  opacity: 1;
+}
+:-ms-input-placeholder {
+  /* Internet Explorer 10-11 */
+  color: #b2b7bf;
+}
+::-ms-input-placeholder {
+  /* Microsoft Edge */
+  color: #b2b7bf;
+}
+
+::placeholder {
+  /* Most modern browsers support this now. */
+  color: #b2b7bf;
+}

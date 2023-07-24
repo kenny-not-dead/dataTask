@@ -1,0 +1,27 @@
+.pagelink {
+  font-weight: 700;
+  font-size: 18px;
+  text-decoration: none;
+  font-style: italic;
+
+  color: #474955;
+}
+
+.pageitem {
+  text-decoration: none;
+  display: inline;
+  margin: 10px 5px;
+}
+
+.pagination {
+  text-align: center;
+}
+
+.active {
+  font-weight: 700;
+  font-size: 18px;
+  text-decoration: none;
+  font-style: italic;
+
+  color: #7ebc3c;
+}
